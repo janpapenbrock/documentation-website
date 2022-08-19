@@ -221,7 +221,7 @@ GET sample-index100/_search
     "hits": []
   },
   "aggregations": {
-    "multi-terms": {
+    "hot": {
       "doc_count_error_upper_bound": 0,
       "sum_other_doc_count": 0,
       "buckets": [
